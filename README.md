@@ -1,5 +1,5 @@
 # hax
-hi:)
+view in raw to get commands right :)
 # new admin user in single user mode
 mount -uw /
 rm /var/db/AppleSetupDone
