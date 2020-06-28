@@ -1,5 +1,5 @@
 # hax
-view in raw to get commands right :)
+view in raw to get commands right cuz github doesn't give a crap about what goes on what line:)
 # new admin user in single user mode
 mount -uw /
 rm /var/db/AppleSetupDone
